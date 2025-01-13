@@ -1,0 +1,9 @@
+**Express Chat - Chatting Application Demo**
+
+**Installation**
+
+- npm install
+- npm start
+
+- http://127.0.0.1:3000/ 
+* Follow this Web address
